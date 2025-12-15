@@ -1,0 +1,27 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+#overskrift{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+}
+
+#knapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    padding-top: 0px;
+}
+
+button{
+    background-color: #679C5B;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
